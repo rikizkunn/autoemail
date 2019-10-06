@@ -1,5 +1,5 @@
 <?php
-
+//HARGAI AUTHOR BABI
 system(@clear);
 print("\e[0;32mcoded by rzyz
 error? contact : fb.me/rikizkun\e[0m\n\n");
